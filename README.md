@@ -1,4 +1,4 @@
-# Rendering Related Data in JSON Using Rails
+// ♥ rails g model location latitude:float longitude:float# Rendering Related Data in JSON Using Rails
 
 ## Learning Goals
 
